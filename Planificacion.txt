@@ -1,14 +1,8 @@
-CORREO PARA LOS TRABAJOS
-------------------------------------------
-Correo: egcc.uni@gmail.com
-Es el unico correo valido para los trabajos
-
-
-Clase 1 10.MAR.21: 
-Clase 2 12.MAR.21: 
-Clase 3 15.MAR.21: Practica 1
-Clase 4 17.MAR.21: 
-Clase 5 19.MAR.21: Practica 2
-Clase 6 22.MAR.21: Practica 3
-Clase 7 24.MAR.21: 
-Clase 8 26.MAR.21: Practica 4
+FECHA DE ENTREGA (INFORME + EXPOSICION/VIDEO)
+-----------------------------------------------
+Clase 1 07.MAY.23: 
+Clase 2 14.MAY.23: Practica 1
+Clase 3 21.MAY.23: Practica 2
+Clase 4 28.MAY.23: Practica 3
+Clase 5 04.JUN.23: Practica 4
+Clase 6 11.JUN.23: Examen Final
